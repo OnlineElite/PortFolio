@@ -26,7 +26,7 @@ body{
 }
 /*---------------head section---------------*/
 .header{
-    background-image: url(./header6.jpg);
+    background-image: url(images/header6.jpg);
     background-attachment: fixed;
     background-size: cover;
     height: 100vh;
